@@ -1,0 +1,17 @@
+A pie chart shows how a total amount is divided between levels of a 
+categorical variable as a circle divided into radial slices. Each 
+categorical value corresponds with a single slice of the circle, and 
+the size of each slice (both in area and arc length) indicates what 
+proportion of the whole each category level takes.
+
+Pie charts have a fairly narrow use-case that is encapsulated 
+particularly well by its definition. In order to use a pie chart, 
+you must have some 
+kind of whole amount that is divided into a number of distinct parts. 
+Your primary objective in a pie chart should be to compare each group 
+contribution to the whole, as opposed to comparing groups to each 
+other.If the above points are not satisfied, the pie chart is not 
+appropriate, and a different plot type should be used instead.
+
+COMMON MISUSE :
+1)Fitting a pie to incompitable data

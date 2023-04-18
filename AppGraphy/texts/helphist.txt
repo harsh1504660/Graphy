@@ -1,0 +1,14 @@
+A histogram is a chart that plots the distribution of a numeric
+variable’s values as a series of bars. Each bar typically covers
+a range of numeric values called a bin or class; a bar’s height
+indicates the frequency of data points with a value within the
+corresponding bin.
+
+Histograms are good for showing general distributional features of
+dataset variables. You can see roughly where the peaks of the 
+distributionare, whether the distribution is skewed or symmetric, 
+and if thereare any outliers. 
+
+COMMON MISUSE WHILE PLOTTING THE HISTOGRAM:
+1) Mesured variable is not continuous numaric
+2) Using unequal bin size

@@ -1,0 +1,16 @@
+A step chart can be useful when you want to show the changes that 
+occur at irregular intervals. For example, the price rise in milk 
+products, petrol, tax rate, interest rates, etc.
+
+The step() function designs the plot such that, it has a horizontal 
+baseline to which the data points will be connected by vertical 
+lines. This kind of plot is used to analyze at which points the 
+change in Y-axis value has occurred exactly with respect to X-axis. 
+This is very useful in discrete analysis. The step plotting can be 
+combined with any other plots. The occurrence of steps can also be 
+formatted by supplying appropriate parameter values. The parameters 
+for this function are tabulated below.
+
+COMMON MISUSE :
+1) Unequal size of data
+2) Used for reguler intervals

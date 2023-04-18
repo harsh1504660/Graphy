@@ -1,0 +1,27 @@
+A stemplot is like a histogram — they are both tools to help you 
+visualize a data set. Stemplots show a little more information 
+than a histogram and have been a common tool for displaying data
+sets since the 1970s. They are typically used when there is a 
+medium amount of quantitative variables to analyze; Stemplots of 
+more than 50 observations are unusual. The name Stem plot comes 
+because there is one 'stem' with the largest place-value digits 
+to the left (shaded in gray in the image below) and one 'leaf' 
+to the right.
+
+A stem and leaf plot is a way to plot data where the data is 
+split into stems (the largest digit) and leaves (the smallest digits)
+. They were widely used before the advent of the personal computer, 
+as they were a fast way to sketch data distributions by hand. They 
+are used less frequently today, but you'll still see some here and 
+there.
+
+Stemplots are made up of a stem (usually the highest place value 
+digit) and 'leaves', which are the digits or units. For example, 
+a simple stemplot of 10,21 and 32 would have tens as the highest 
+order digits and 0,1, and 2 as the leaves. Think of a stemplot as 
+being a histogram or bar chart made from actual numbers instead of 
+blocks.
+
+COMMON MISUSE:
+1) Unequal number of x and y variable
+2) Use of characters as a data

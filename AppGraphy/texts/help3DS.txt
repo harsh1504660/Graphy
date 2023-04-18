@@ -1,0 +1,21 @@
+3D scatter plots are used to plot data points on three axes in the
+attempt to show the relationship between three variables. Each row
+in the data table is represented by a marker whose position depends
+on its values in the columns set on the X, Y, and Z axes.
+
+A fourth variable can be set to correspond to the color or size of
+the markers, thus adding yet another dimension to the plot.
+
+The relationship between different variables is called correlation.
+If the markers are close to making a straight line in any direction
+in the three-dimensional space of the 3D scatter plot, the correlation
+between the corresponding variables is high. If the markers are equally
+distributed in the 3D scatter plot, the correlation is low, or zero.
+However, even though a correlation may seem to be present, this might
+not always be the case. The variables could be related to some fourth
+variable, thus explaining their variation, or pure coincidence might
+cause an apparent correlation.
+
+You can change how the 3D scatter plot is viewed by zooming in and
+out as well as rotating it by using the navigation controls located
+in the top right part of the visualization.

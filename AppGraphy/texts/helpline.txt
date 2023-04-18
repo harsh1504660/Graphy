@@ -1,0 +1,23 @@
+A line chart (aka line plot, line graph) uses points connected by line 
+segments from left to right to demonstrate changes in value. The 
+horizontal axis depicts a continuous progression, often that of time, 
+while the vertical axis reports values for a metric of interest across 
+that progression.
+
+You will use a line chart when you want to emphasize changes in values 
+for one variable (plotted on the vertical axis) for continuous values 
+of a second variable (plotted on the horizontal). This emphasis on 
+patterns of change is sold by line segments moving consistently from 
+left to right and observing the slopes of the lines moving up or down.
+An important aspect of creating a line chart is selecting the right 
+interval or bin size. For temporal data, a too-broad of a measurement 
+interval may mean that it takes too long to see where the data trend 
+is leading, hiding away the useful signal. On the flip side of the 
+coin, a too-short a measurement interval may only reveal noise rather 
+than signal.
+
+COMMON MISUSE :
+1) Strictly using a zero base line
+2) Using a mislading dual axis
+3) enequal number of x and y variables
+4) Use of characters as a data
